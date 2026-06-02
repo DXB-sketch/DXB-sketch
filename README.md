@@ -36,5 +36,3 @@ develop websites, sell automation workflows and more.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dexter@teambell.net)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DXB-sketch&show_icons=true&theme=default&hide_border=true)
