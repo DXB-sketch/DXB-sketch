@@ -16,9 +16,9 @@ develop websites, sell automation workflows and more.
 
 ## Tech Stack
 
-**Frontend:** React ○ HTML ○ CSS
+**Frontend:** React ○ HTML ○ CSS  
 **Backend:** Node.js ○ Python  
-  **Tools:** Git ○ Claude ○ Stripe ○ Figma
+**Tools:** Git ○ Claude ○ Stripe ○ Figma
 
 ---
 
